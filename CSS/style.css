@@ -1,0 +1,17 @@
+body {
+    font-family: "Titillium Web", sans-serif;
+    background: rgb(36, 53, 63);
+}
+h1 {
+    color: rgb(23, 162, 184);
+}
+.container{
+    
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
